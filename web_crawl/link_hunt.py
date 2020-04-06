@@ -73,4 +73,4 @@ def URLS_HUNTER(link):
     print(set(urls_list))
     return set(urls_list)
 
-URLS_HUNTER('Tesla.com')
+# URLS_HUNTER('Tesla.com')
